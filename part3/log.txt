@@ -1,0 +1,99 @@
+#	Reading file accidents.pkl.gz	#
+#	File successfully read	#
+>	Transforming data...	<
+	>>	p1 column successfully transformed	
+	>>	p36 column successfully transformed	
+	>>	p37 column successfully transformed	
+	>>	p2a column successfully transformed	
+	>>	weekday(p2a) column successfully transformed	
+	>>	p2b column successfully transformed	
+	>>	p6 column successfully transformed	
+	>>	p7 column successfully transformed	
+	>>	p8 column successfully transformed	
+	>>	p9 column successfully transformed	
+	>>	p10 column successfully transformed	
+	>>	p11 column successfully transformed	
+	>>	p12 column successfully transformed	
+	>>	p13a column successfully transformed	
+	>>	p13b column successfully transformed	
+	>>	p13c column successfully transformed	
+	>>	p14 column successfully transformed	
+	>>	p15 column successfully transformed	
+	>>	p16 column successfully transformed	
+	>>	p17 column successfully transformed	
+	>>	p18 column successfully transformed	
+	>>	p19 column successfully transformed	
+	>>	p20 column successfully transformed	
+	>>	p21 column successfully transformed	
+	>>	p22 column successfully transformed	
+	>>	p23 column successfully transformed	
+	>>	p24 column successfully transformed	
+	>>	p27 column successfully transformed	
+	>>	p28 column successfully transformed	
+	>>	p34 column successfully transformed	
+	>>	p35 column successfully transformed	
+	>>	p39 column successfully transformed	
+	>>	p44 column successfully transformed	
+	>>	p45a column successfully transformed	
+	>>	p47 column successfully transformed	
+	>>	p48a column successfully transformed	
+	>>	p49 column successfully transformed	
+	>>	p50a column successfully transformed	
+	>>	p50b column successfully transformed	
+	>>	p51 column successfully transformed	
+	>>	p52 column successfully transformed	
+	>>	p53 column successfully transformed	
+	>>	p55a column successfully transformed	
+	>>	p57 column successfully transformed	
+	>>	p58 column successfully transformed	
+	>>	a column successfully transformed	
+	>>	b column successfully transformed	
+	>>	d column successfully transformed	
+	>>	e column successfully transformed	
+	>>	f column successfully transformed	
+	>>	g column successfully transformed	
+	>>	h column successfully transformed	
+	>>	i column successfully transformed	
+	>>	j column successfully transformed	
+	>>	k column successfully transformed	
+	>>	l column successfully transformed	
+	>>	n column successfully transformed	
+	>>	o column successfully transformed	
+	>>	p column successfully transformed	
+	>>	q column successfully transformed	
+	>>	r column successfully transformed	
+	>>	s column successfully transformed	
+	>>	t column successfully transformed	
+	>>	p5a column successfully transformed	
+	>>	region column successfully transformed	
+>> DONE!
+Original size: 717.6 MB
+Size after transformation: 381.2 MB
+#	Creating geoDataFrame	#
+> Transforming...
+> Converting CRS...
+>> DONE!
+#	Creating map image	#
+	> Map successfully created
+	>Saving map to map.png...
+>> DONE!
+#	Preparing Table	#
+ Usmrtenych osob  tazko zranenych osob  lahko zranenych osob  celkovy pocet nehod
+              31                   138                  1946                 4623
+               3                    13                   136                  282
+               4                    19                   181                  476
+               8                    12                   178                  407
+               3                    13                   149                  324
+              13                    45                   475                 1104
+               4                     8                    43                  108
+>> DONE!
+#	Preparing plot	#
+> Plotting...
+>> DONE!
+> Saving plot to alc.png
+#	Grouping data for statistics	#
+> Data collected
+Pocet umrti                66
+Pocet tazko zranenych     248
+Pocet lahko zranenych    3108
+dtype: int64
